@@ -1,4 +1,4 @@
-<h3>A glassmorphish blur effect css</h3>
+<h3>A glassmorphism blur effect css</h3>
 
 <p>April 2021 not working in Firefox </p>
 
